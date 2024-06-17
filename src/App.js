@@ -23,7 +23,6 @@ function App() {
   
    
    
-   
 
     })
       .catch((error)=>{console.log('요청실패')
